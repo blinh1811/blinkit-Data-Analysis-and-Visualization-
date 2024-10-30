@@ -16,6 +16,7 @@ The dataset includes detailed sales transaction information from BlinkIT with th
 - **Rating**: Average product rating.
 
 The dataset provides a comprehensive view of product types, store locations, and sizes, which helps analyze sales performance and factors influencing it.
+![image](https://github.com/user-attachments/assets/8443e84a-b9c5-45b3-8a5b-ae302e7b92d0)
 
 ## Work Completed
 
@@ -38,10 +39,12 @@ The dataset provides a comprehensive view of product types, store locations, and
 - **Average Sales**: Average sales per product is **$141**.
 - **Number of Items**: Total number of items is **8,523**.
 - **Average Rating**: Average product rating is **3.9**.
+![image](https://github.com/user-attachments/assets/0ec2763b-7f91-48ae-8381-5bd4d2b8c54b)
 
 ## Dashboard Components
 
 1. **Filter Panel**: Allows users to filter data by Outlet Location, Outlet Size, and Item Type.
+![image](https://github.com/user-attachments/assets/8134c411-8f75-45fd-8b1d-e84f08196ab6)
 
 2. **Sales by Fat Content**:
    - **Low Fat** items generated **$425.36K** in sales.
@@ -50,6 +53,7 @@ The dataset provides a comprehensive view of product types, store locations, and
 3. **Sales by Item Type**:
    - "Fruits and Vegetables" and "Snack Foods" lead with the highest sales, each reaching **$0.18M**.
    - Other high-performing categories include Household, Frozen Foods, Dairy, and Canned Goods.
+![image](https://github.com/user-attachments/assets/f2761f2b-4e44-4eab-9a02-2e827bf66961)
 
 4. **Sales by Outlet Establishment Year**:
    - A line chart tracks sales growth over the years, with the highest sales of **$205K** in 2018.
@@ -64,10 +68,12 @@ The dataset provides a comprehensive view of product types, store locations, and
 7. **Sales by Outlet Type**:
    - Supermarket Type1 leads in sales with **$787.55K**.
    - Other types include Supermarket Type2, Supermarket Type3, and Grocery Stores with sales of **$131.48K**, **$130.71K**, and **$151.94K**, respectively.
+![image](https://github.com/user-attachments/assets/a016d012-6cdf-4cf8-972e-dd8294ec360c)
 
 ## Conclusion
 
 The BlinkIT Grocery Sales Dashboard provides a clear and user-friendly interface for analyzing sales performance. Through comprehensive data aggregation and visualization, it allows for easy tracking and comparison of factors affecting revenue, supporting more effective business decision-making.
+![image](https://github.com/user-attachments/assets/eb4e1c77-8e6c-4bf6-8b1c-d9f5f3a4abb3)
 
 ---
 
