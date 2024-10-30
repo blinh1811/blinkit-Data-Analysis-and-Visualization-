@@ -46,30 +46,30 @@ The dataset provides a comprehensive view of product types, store locations, and
 ## Dashboard Components
 
 1. **Filter Panel**: Allows users to filter data by Outlet Location, Outlet Size, and Item Type.
-2. 
+   
 ![image](https://github.com/user-attachments/assets/8134c411-8f75-45fd-8b1d-e84f08196ab6)
 
-3. **Sales by Fat Content**:
+2. **Sales by Fat Content**:
    - **Low Fat** items generated **$425.36K** in sales.
    - **Regular Fat** items generated **$776.32K** in sales.
 
-4. **Sales by Item Type**:
+3. **Sales by Item Type**:
    - "Fruits and Vegetables" and "Snack Foods" lead with the highest sales, each reaching **$0.18M**.
    - Other high-performing categories include Household, Frozen Foods, Dairy, and Canned Goods.
      
 ![image](https://github.com/user-attachments/assets/f2761f2b-4e44-4eab-9a02-2e827bf66961)
 
-5. **Sales by Outlet Establishment Year**:
+4. **Sales by Outlet Establishment Year**:
    - A line chart tracks sales growth over the years, with the highest sales of **$205K** in 2018.
 
-6. **Sales by Outlet Size**:
+5. **Sales by Outlet Size**:
    - **Medium-sized** outlets generate the highest revenue at **$507.90K**.
    - **Small** and **High** outlets follow, with sales of **$248.99K** and **$444.79K**, respectively.
 
-7. **Sales by Outlet Location**:
+6. **Sales by Outlet Location**:
    - Tier 3 locations have the highest revenue at **$472.13K**, followed by Tier 2 and Tier 1.
 
-8. **Sales by Outlet Type**:
+7. **Sales by Outlet Type**:
    - Supermarket Type1 leads in sales with **$787.55K**.
    - Other types include Supermarket Type2, Supermarket Type3, and Grocery Stores with sales of **$131.48K**, **$130.71K**, and **$151.94K**, respectively.
      
